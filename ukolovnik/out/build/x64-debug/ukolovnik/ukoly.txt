@@ -1,0 +1,23 @@
+Poslat e-mail s vysledky;01-12-2024;9:00;2;0
+Uklidit pokoj;01-12-2024;11:00;1;0
+Priprava na seminar;01-12-2024;17:00;3;0
+Dokoncit prezentaci;02-12-2024;10:00;3;0
+Zavolat lekarovi;02-12-2024;13:00;2;0
+Precist clanek na prednasku;02-12-2024;19:00;1;0
+Odevzdat ukol do programovani;03-12-2024;23:00;3;0
+Zkontrolovat formatovani projektu;03-12-2024;15:00;2;0
+Udelat poznamky k obhajobe;03-12-2024;18:00;1;0
+Obhajoba projektu;04-12-2024;7:00;2;0
+Schuzka s prateli;04-12-2024;12:00;1;0
+Vyzvednout zasilku;04-12-2024;13:00;2;0
+Zajit na nakup;04-12-2024;14:00;1;0
+Udelat protokol do elektrotechniky;04-12-2024;16:00;3;0
+Jit na prednasku o kybernetice;05-12-2024;8:00;2;0
+Domluvit se na tymovem projektu;05-12-2024;13:00;1;0
+Trenink v posilovne;05-12-2024;17:00;1;0
+Napsat zaverecnou zpravu;06-12-2024;9:00;3;0
+Jit na koncert;06-12-2024;19:00;2;0
+Vyplnit dotaznik do skoly;06-12-2024;20:00;1;0
+Vystavit prezentaci online;07-12-2024;10:00;2;0
+Domaci uklid;07-12-2024;15:00;1;0
+Kouknout na dokumentaci k projektu;07-12-2024;18:00;3;0
